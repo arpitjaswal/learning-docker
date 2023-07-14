@@ -1,0 +1,4 @@
+Notes:
+
+- Docker: A platform for building, running and shipping applications.
+- if your application works on your development machine, it can run and work in the same manner on other machines.
